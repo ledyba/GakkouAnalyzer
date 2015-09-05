@@ -2,9 +2,9 @@
 
 がっこうぐらし！のOPのフレーズ「ここには夢がちゃんとある」の時に起こる弾幕、「※希望はありません」がどういうふうに生まれてきたのか観察してみました。
 
-![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/screenshot.png)
+[![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/screenshot.png)](http://www.nicovideo.jp/watch/1436342441)
 
-ニコニコ動画の弾幕はあくまで歌詞の内容を元にした「空耳」だったりすることが多く、この「希望はありません」の弾幕は面白い存在だと思います。
+ニコニコ動画の弾幕はあくまで歌詞の内容を元にした「空耳」であることが多く、この歌詞には直接出てこないフレーズである「希望はありません」の弾幕は面白い存在だと思います。
 
 # 方法
 
@@ -46,7 +46,7 @@
 # おまけ
 ## 「わかば＊ガール」1話
 
-　わかば＊ガールの弾幕「TNP鳴らして」も調べました。
+　わかば＊ガールの今季一番ひどいと思う弾幕「TNP鳴らして」も調べました。
 
  - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girs_1.svg)
 
