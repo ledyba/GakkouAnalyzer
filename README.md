@@ -9,13 +9,13 @@
 
  - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.svg)
 
-![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.svg)
+![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.svg)
 
 ## 2話
 
  - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.svg)
 
-![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.svg)
+![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.svg)
 
 # おまけ
 ## 「わかば＊ガール」1話
@@ -24,4 +24,4 @@
 
  - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girs_1.svg)
 
-![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/wakaba_girs_1.svg)
+![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girs_1.svg)
