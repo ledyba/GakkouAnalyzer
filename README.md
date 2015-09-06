@@ -41,7 +41,7 @@
 ### なぜ4日目に大ヒットしたのか？
 
 よく見ると4日目、07/12はGoogleTrendでの最大ピークと一致している。
-SNSを見て検索した新規ユーザの大量流入が大ヒットの原因である可能性は考えられなくはない。
+SNSを見て検索した新規ユーザの大量流入が大ヒットの原因である可能性があるが、単なる偶然かもしれない。
 
 [![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/trend.png)](https://www.google.co.jp/trends/explore#q=%E3%81%8C%E3%81%A3%E3%81%93%E3%81%86%E3%81%90%E3%82%89%E3%81%97&date=today%203-m&cmpt=q&tz=Etc%2FGMT-9)
 
