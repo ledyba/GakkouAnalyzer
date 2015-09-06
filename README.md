@@ -22,7 +22,7 @@
 
  - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.svg)
 
-[![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.svg)](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.png)
+ [![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.png)](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/gakko_gurashi!_1.svg)
 
 ### 観察
 
@@ -49,7 +49,7 @@ SNSを見て検索した新規ユーザの大量流入が大ヒットの原因�
 
  - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.svg)
 
- [![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.svg)](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.png)
+ [![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.png)](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/gakko_gurashi!_2.svg)
 
 - 一話の流行を受けて「※希望はありません」は最初から大人気
 
@@ -60,7 +60,7 @@ SNSを見て検索した新規ユーザの大量流入が大ヒットの原因�
 
  - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girl_1.svg)
 
-[![](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/wakaba_girl_1.svg)](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girl_1.png)
+ [![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girl_1.png)](https://raw.githubusercontent.com/ledyba/gakko-analyzer/master/wakaba_girl_1.svg)
 
  - 初期は「GONG鳴らして」、ないし素直に「ピンポン鳴らして」
  - 猛烈に書かれている瞬間があるが、よく見ると連投回避のためにちょっと文字変えてるのが固まってる
