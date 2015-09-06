@@ -51,9 +51,9 @@
 
 　わかば＊ガールの今季一番アレな弾幕「TNP鳴らして」も調べました。
 
- - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girs_1.svg)
+ - [こちらです](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girl_1.svg)
 
-![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girs_1.svg)
+![](https://cdn.rawgit.com/ledyba/gakko-analyzer/master/wakaba_girl_1.svg)
 
  - 初期は「GONG鳴らして」、ないし素直に「ピンポン鳴らして」
  - 猛烈に書かれている瞬間があるが、よく見ると連投回避のためにちょっと文字変えてるのが固まってる
