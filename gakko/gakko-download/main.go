@@ -36,7 +36,8 @@ func main() {
 			log.Fatal(err)
 		}
 		time.Sleep(1 * time.Second)
-		r, err := cl.GetComment(res, res.ThreadID, wh)
+		var r []client.Chat
+		r, err = cl.GetComment(res, res.ThreadID, wh)
 		if err != nil {
 			log.Fatal(err)
 		}
